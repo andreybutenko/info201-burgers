@@ -2,11 +2,14 @@
 
 *Lunch Menu*
 
-- Burgers
+- Hamburger
+- Cheeseburger
+- Cheese Fries
 - Fries
 - Nuggets
 - Lettuce
 - Crepes
+- Cheese Crepes
 
 *Drinks*
 
