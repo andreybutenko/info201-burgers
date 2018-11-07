@@ -4,6 +4,8 @@
 
 - Burgers
 - Fries
+- Nuggets
+- Lettuce
 - Crepes
 
 *Drinks*
