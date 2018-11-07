@@ -4,5 +4,11 @@
 
 - Burgers
 - Fries
-- Coke
 - Crepes
+
+*Drinks*
+
+- Coke
+- Milkshakes
+- WATER!
+- Coffee
