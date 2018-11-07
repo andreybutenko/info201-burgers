@@ -1,1 +1,2 @@
-# info201-burgers
+# INFO 201 Burgers: Best Burgers at UW!
+
